@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chilinino.github.io/XP2306L00800090-bici-rubata/sitemap.xml
